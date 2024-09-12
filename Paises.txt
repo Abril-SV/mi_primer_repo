@@ -1,8 +1,8 @@
-México
-Italia
-Alemania
+México		Verde
+Italia		Verde
+Alemania	Negro
 Rusia
 Francia
-Bélgica
+Bélgica		Rojo
 Australia
-Argentina
+Argentina	Azul
