@@ -1,8 +1,8 @@
-México		Verde
+México		CDMX
 Italia		Verde
-Alemania	Negro
+Alemania	Berlin		
 Rusia		Rojo
-Francia		Azul
+Francia		Paris
 Bélgica		Rojo
-Australia	Azul
+Australia	Canberra
 Argentina	Azul
