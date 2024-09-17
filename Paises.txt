@@ -8,3 +8,4 @@ Australia	Canberra
 Argentina	Azul
 Chile
 Panama
+Belice
