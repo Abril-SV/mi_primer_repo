@@ -6,3 +6,4 @@ Francia		Paris
 Bélgica		Rojo
 Australia	Canberra
 Argentina	Azul
+Chile
