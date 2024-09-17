@@ -7,3 +7,4 @@ Bélgica		Rojo
 Australia	Canberra
 Argentina	Azul
 Chile
+Panama
